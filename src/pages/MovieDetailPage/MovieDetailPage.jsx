@@ -28,7 +28,6 @@ export default function MovieDetailPage({ movies }) {
         </ul>
         </div>
     </div>
-    
     </>
   );
 }
